@@ -1,2 +1,5 @@
 ## Kod 1: ##
 Veri kaydedilemiyor hatası, aynı veriyi birden fazla kez kaydedemezsin.
+
+## Kod 2: ##
+TypeError hatası, seçenekleri seçer iken sayı yerine harf yada metin yazar iseniz bu hatayı alırsınız
