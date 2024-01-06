@@ -44,3 +44,5 @@ if a == password:
                     file.write(line)
      else:
         pyauto.alert(text="Error, Kod 3 ile çıkış yapıldı", title="Uyarı")
+else:
+    pyauto.alert(text="Şifre yanlış!", title="Uyarı")
